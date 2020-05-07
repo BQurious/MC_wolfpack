@@ -1,9 +1,3 @@
-[11:04:11] [main/FATAL]: Failed to start the minecraft server
-joptsimple.UnrecognizedOptionException: X is not a recognized option
-	at joptsimple.OptionException.unrecognizedOption(OptionException.java:108) ~[minecraft_server.1.15.2.jar:?]
-	at joptsimple.OptionParser.validateOptionCharacters(OptionParser.java:633) ~[minecraft_server.1.15.2.jar:?]
-	at joptsimple.OptionParser.handleShortOptionCluster(OptionParser.java:528) ~[minecraft_server.1.15.2.jar:?]
-	at joptsimple.OptionParser.handleShortOptionToken(OptionParser.java:523) ~[minecraft_server.1.15.2.jar:?]
-	at joptsimple.OptionParserState$2.handleArgument(OptionParserState.java:59) ~[minecraft_server.1.15.2.jar:?]
-	at joptsimple.OptionParser.parse(OptionParser.java:396) ~[minecraft_server.1.15.2.jar:?]
-	at net.minecraft.server.MinecraftServer.main(SourceFile:906) [minecraft_server.1.15.2.jar:?]
+[11:15:38] [main/ERROR]: Failed to load properties from file: server.properties
+[11:15:38] [main/WARN]: Failed to load eula.txt
+[11:15:38] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
