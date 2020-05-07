@@ -1714,6 +1714,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-04-29 03:43:18 +0530",
+      "minecraft:mountains": "2020-05-07 11:53:03 +0530",
       "minecraft:dark_forest": "2020-04-29 03:44:42 +0530",
       "minecraft:river": "2020-04-29 03:43:09 +0530",
       "minecraft:wooded_hills": "2020-04-26 21:23:01 +0530",
