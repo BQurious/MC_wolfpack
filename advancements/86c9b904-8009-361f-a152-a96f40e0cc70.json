@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-05-07 12:06:57 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-04-29 12:31:03 +0530"
@@ -389,6 +395,7 @@
       "cooked_mutton": "2020-04-29 05:57:25 +0530",
       "bread": "2020-04-29 05:30:33 +0530",
       "rotten_flesh": "2020-04-29 11:36:39 +0530",
+      "melon_slice": "2020-05-07 12:18:03 +0530",
       "cooked_salmon": "2020-04-29 05:36:56 +0530"
     },
     "done": false
@@ -408,6 +415,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-29 03:46:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-05-07 12:14:17 +0530"
     },
     "done": true
   },
@@ -564,6 +577,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-29 12:31:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-05-07 12:26:35 +0530"
     },
     "done": true
   },
@@ -1009,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-05-07 12:06:57 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-04-29 06:32:09 +0530"
@@ -1102,6 +1127,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-04-29 03:43:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-05-07 12:14:17 +0530"
     },
     "done": true
   },
@@ -1303,6 +1334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-05-07 12:10:40 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2020-05-03 21:58:42 +0530"
@@ -1456,6 +1493,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-04-29 05:26:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-05-07 12:10:40 +0530"
     },
     "done": true
   },
@@ -1715,6 +1758,8 @@
     "criteria": {
       "minecraft:forest": "2020-04-29 03:43:18 +0530",
       "minecraft:mountains": "2020-05-07 11:53:03 +0530",
+      "minecraft:taiga": "2020-05-07 12:04:31 +0530",
+      "minecraft:beach": "2020-05-07 12:08:39 +0530",
       "minecraft:dark_forest": "2020-04-29 03:44:42 +0530",
       "minecraft:river": "2020-04-29 03:43:09 +0530",
       "minecraft:wooded_hills": "2020-04-26 21:23:01 +0530",
@@ -1933,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-05-07 12:14:17 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-04-29 05:15:15 +0530"
@@ -2020,6 +2071,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-29 03:46:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-05-07 12:06:57 +0530"
     },
     "done": true
   },
